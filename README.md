@@ -64,3 +64,35 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# Laravel Ajax CRUD Product
+
+This project is a simple product management system built with Laravel, implementing CRUD (Create, Read, Update, Delete) operations using Ajax. The goal is to provide a seamless and responsive user experience by performing all operations asynchronously without reloading the page.
+
+## Features
+
+- Product listing with pagination
+- Create new products using Ajax
+- Edit existing products using Ajax
+- Delete products using Ajax
+- Form validation with instant feedback
+- User-friendly UI with Bootstrap
+
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- PHP >= 8.0
+- Composer
+- MySQL or any other supported database
+- Node.js and npm
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/TewaritTholee/Laravel-Ajax-CRUD-Product.git
+
